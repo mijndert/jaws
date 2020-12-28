@@ -1,8 +1,6 @@
-<center><h1>Jaws</h1></center>
+# Jaws
 
-<center>Terraform quickstarter for a Digitalocean Droplet</center>
-
----
+Terraform quickstarter for a Digitalocean Droplet
 
 ## Usage
 
