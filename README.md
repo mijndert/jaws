@@ -46,6 +46,7 @@ module "droplet" {
 - [ ] Add optional creation of a DO project
 - [ ] Make creation of a firewall optional
 - [ ] Use existing SSH key when one is not provided for creation
+- [ ] State management
 
 ## Contributing
 
